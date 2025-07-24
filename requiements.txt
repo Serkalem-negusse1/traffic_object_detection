@@ -1,0 +1,8 @@
+torch>=1.10
+torchvision
+tensorflow-datasets
+opencv-python
+matplotlib
+numpy
+pandas
+PyYAML
